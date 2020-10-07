@@ -50,6 +50,10 @@
   "content_copy_keys_fields_label": {
     "message": "タブ区切り",
     "description": "Label for key to copy a tab-separated set of fields to the clipboard"
+  },  
+  "content_copy_keys_voice_label": {
+    "message": "発音",
+    "description": "Label for key to play a clip of pronunciation if available"
   },
   "content_copy_keys_word_label": {
     "message": "単語",
@@ -74,6 +78,10 @@
   "content_copied_word": {
     "message": "単語をコピーしました",
     "description": "Overlay shown after copying a word to the clipboard."
+  },
+  "content_copied_voice": {
+    "message": "発音をしてみたかった",
+    "description": "Overlay shown after attempting at playing a clip."
   },
   "content_copy_error": {
     "message": "コピーが失敗しました",

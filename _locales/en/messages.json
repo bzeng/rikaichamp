@@ -51,6 +51,10 @@
     "message": "tab-separated",
     "description": "Label for key to copy a tab-separated set of fields to the clipboard"
   },
+  "content_copy_keys_voice_label": {
+    "message": "voice",
+    "description": "Label for key to play a clip of pronunciation if available"
+  },
   "content_copy_keys_word_label": {
     "message": "word",
     "description": "Label for key to copy a word to the clipboard"
@@ -74,6 +78,10 @@
   "content_copied_word": {
     "message": "Copied word",
     "description": "Overlay shown after copying a word to the clipboard."
+  },
+  "content_copied_voice": {
+    "message": "Tested voice",
+    "description": "Overlay shown after attempting at playing a clip."
   },
   "content_copy_error": {
     "message": "Failed to copy to clipboard",
